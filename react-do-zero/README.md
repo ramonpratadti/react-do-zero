@@ -5,7 +5,6 @@
 * No terminal rode este comando para instalar o create react app
   * ```npm i create-react-app```
 * Clone o projeto no github da DTI
-    * [react-do-zero](https://github.com/dtidigitalcrafters/react-do-zero) 
 * No terminal rode este comando
     * ```npm install```
 * Para rodar a aplicação rode este comando na pasta local onde você baixou o projeto
