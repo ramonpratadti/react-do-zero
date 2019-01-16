@@ -5,7 +5,6 @@
 * No terminal rode este comando para instalar o create react app
   * ```npm i create-react-app```
 * Clone o projeto no github da DTI
-    * [react-do-zero](https://github.com/dtidigitalcrafters/react-do-zero) 
 * No terminal rode este comando
     * ```npm install```
 * Para rodar a aplicação rode este comando na pasta local onde você baixou o projeto
@@ -132,10 +131,12 @@
 * Esses métodos são chamados automaticamente pelo React, e só existe LifeCycle em componentes do tipo ***class component***
 * A atualização de um componente ocorre quando um componente pai passa props para ele, ou quando ele mesmo atualiza seu estado via ```setState()```
 * Toda atualização irá invocar os métodos do lifecycle do componente novamente
-* Entender o lifecycle e como a alteração de estado do componente interage com o lifecycle e aplicar de forma correta influencia na performance da aplicação
+* Entender o lifecycle e como a alteração de estado do componente interage com o lifecycle é extremamente importante e sua aplicação influencia diretamente na performance e usabilidade da aplicação
 
 
 # REFERENCIAS
+https://reactjs.org/docs/getting-started.html
+
 https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e
 
 https://www.codecademy.com/articles/react-virtual-dom
